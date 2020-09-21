@@ -1,3 +1,3 @@
-before do
-    Services.new
+Before do
+    @services = Services.new
 end
